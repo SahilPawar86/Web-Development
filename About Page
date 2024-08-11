@@ -1,0 +1,55 @@
+<DOCTYPE! html>
+<html>
+
+<head>
+
+<title>about page</title>
+
+<style>
+
+p { 
+font-family:mukta;
+
+margin:5px;
+
+color:black;}
+
+body{background-color:white;
+
+font-family: Arial; sans-serif;
+
+margin: 10px; border: solid 2px;
+
+}
+
+h1 {background-color:orange;}
+
+</style>
+
+</head>
+<body>
+<h1 style="text-align:center";><u>About NTA</u></h1>
+
+<p> Ministry of Human Resource Development (MHRD), which is now known as the Ministry of Education (MoE), Government of India (GOI) has established the National Testing Agency (NTA) as an independent, autonomous, and self-sustained premier testing organization under the Societies Registration Act (1860) for conducting efficient, transparent and international standards tests in order to assess the competency of candidates for admissions to premier higher education institutions.</p><br><br>
+
+<p>The objectives of NTA, inter alia, include</p><br>
+
+<p>1)To conduct efficient, transparent, and international standard tests in order to assess the competency of candidates for admission.</p><br>
+
+<p>2)To undertake research on educational, professional and testing system to identify gaps in the knowledge systems and take steps for bridging them.<br>
+
+3)To produce and disseminate information and research on education and professional development standards.</p><br><br>
+
+<p>The National Eligibility-cum-Entrance Test (NEET-UG) is being conducted by NTA since 2019 for admission to the undergraduate medical education, with the approval of the Ministry of Health & Family Welfare (vide O.M. no. V.11025/14/216-MEP dated 6th December 2017) and MHRD (vide Order No
+
+35-5/2017 TS.I dated 24th September 2018)</p>
+
+<footer style="text-align:center";>
+
+<p>&copy; Content Owned and Maintained by National Testing Agency</p>
+
+</footer>
+
+</body>
+
+</html>
