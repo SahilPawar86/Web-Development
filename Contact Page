@@ -1,0 +1,61 @@
+html>
+
+<head>
+
+<title>Contact us</title>
+
+<style>
+
+h1 {font-family:mukta;
+
+text-align:center; backgroud-color:orange;}
+
+body {background-color:white;
+
+font-family: Arial, sans-serif; margin: 10px; border: solid 2px;
+
+}
+
+h2 {text-align:center;font-family:mukta;}
+
+p{text-align:center;
+
+font-family:mukta;
+
+} h1 {background-color:orange;} footer {position:change; }
+
+</style>
+
+</head>
+
+<body>
+
+<h1><u>Contact US</U></h1>
+
+<h2>HELPLINE (OPERATIONAL DURING 09:30 AM TO 05:30 PM)</h2>
+
+<p style="font-size:20px";>NATIONAL TESTING AGENCY
+
+An autonomous organization under the Department of Higher Education, Ministry of Education, Government of India<hr>
+
+<img src="https://jeemain.nta.ac.in/images/contact-us.jpg" width="100%" height= align="center"><br>
+
+Email-Id:
+
+<center> <b>
+
+_genadmin@nta.ac.in</b></center><hr><br>
+
+Contact No:-
+
+011-40759000</b></center><hr></p>
+
+<footer style="text-align:center";>
+
+<center><b> 01169227700- <p>&copy; Content Owned and Maintained by National Testing Agency</p>
+
+</footer>
+
+</body>
+
+</html>
