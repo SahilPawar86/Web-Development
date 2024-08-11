@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+   
+    <title>Medical Examination Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 10px; border: solid 2px;
+
+        }
+h1{text-align:center;}
+
+        header {
+            text-align: center;
+            padding: 5px;
+            background-color: orange;
+            color: white;
+ 
+
+border:1px;
+        }
+
+
+nav {
+            background-color: #90EE90;
+            overflow: hidden;
+         font-family:mukta;
+        }
+p{ 
+    font-family:mukta;}
+         nav a {
+            float: left;
+            display: block;
+            color: black;
+            text-align: center;
+            padding: 25px 25px;
+            text-decoration: none;
+        }
+
+        nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+background-color:#ffde6f;
+font-family:mukta;}
+table{
+ text-align:center;}
+
+        section {
+            margin: 20px 0;
+        }
+ul{font-family:mukta; 
+text-align:center;
+
+}
+marquee{background-color: #000080;
+    font-family:mukta; color:white;
+}
+
+         footer {
+            position: change;
+            padding:20px ;
+            bottom: 10;
+            width: 97%;
+            height: 75%;
+            background:black;
+color:white;
+        }
+
+.sidebar {
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #f1f1f1;
+  position: change;
+  height: 100%;
+  overflow: auto;
+}
+
+.sidebar a {
+  display: block;
+  color: black;
+  padding: 16px;
+  text-decoration: none;
+}
+ 
+.sidebar a.active {
+  background-color: #90EE90;
+  color: black;
+}
+
+.sidebar a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
+@media screen and (max-width: 700px) {
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  .sidebar a {float: left;}
+  div.content {margin-left: 0;}
+}
+
+@media screen and (max-width: 400px) {
+  .sidebar a {
+    text-align: center;
+    float: none;
+  }
+body{
+margin:10;}
+    </style>
+</head>
+
+<body>
+<header><img src="https://images.collegedunia.com/public/college_data/images/logos/NTA%20Logo.jpg" width="125" height="125" align="left"> <img src="https://neet.nta.nic.in/wp-content/themes/sdo-theme/images/emblem.svg" width="125" height="125" align="right">
+        <h1>राष्ट्रीय पात्रता सह प्रवेश परीक्षा (यूजी)<br> NATIONAL ELIGIBILITY CUM ENTRANCE TEST (UG)
+</h1>
+    </header>
+
+    <nav>
+        <a href="#">Home</a>
+        <a href="Exam2.html">About Us</a>
+        <a href="exam3.html">Contact Us<a/>
+ <input type="text" placeholder="Search.." name="search align="right">
+
+          </nav>  
+<marquee>Announcement:-</marquee>
+
+<div class="sidebar">
+  <a class="active" href="#home">Home</a>
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+  <a href="#about">About</a>
+</div>
+
+
+<div style="font-size:18px";>
+<p style="text-align:center"; ,style="font-size:210px";>Entering the world of medical education through the National Eligibility cum Entrance Test (NEET) demands a comprehensive understanding of its eligibility criteria. Aspiring medical professionals need to go through a defined set of rules and requirements set by the National Testing Agency (NTA). NTA is an exam-conducting organization that conducts the NEET exam every year.</p> 
+<h1> NEET Eligibility Criteria 2024 For Indians</h1>
+<ul>1)Candidates must have completed or be appearing for the 10+2 examination or its equivalent from a recognized board or university.</ul>
+<ul>2)Indian candidates, similar to others, must obtain a minimum aggregate of 50% marks in Physics, Chemistry, and Biology/Biotechnology in the qualifying examination.</ul>
+<ul>3)The minimum age requirement for Indian candidates to appear for NEET 2024 is 17 years. There is no maximum NEET age limit for Indian candidates.</ul>
+<ul>4)Indian citizens are eligible to apply for NEET 2024, and they need to fulfill the specified educational and age criteria for successful application.</ul>
+<H1>NEET Eligibility Marks in 12th</H1>
+<P style="text-align:center";>1)For NEET UG 2024, candidates must adhere to specific eligibility criteria concerning marks obtained in the 12th standard. General category candidates need a minimum aggregate of 50% marks in Physics, Chemistry, and Biology combined.<BR>
+
+2)Meanwhile, candidates from SC/ST/OBC-NCL categories should secure a minimum of 40% marks in these subjects. It is essential for candidates to meet these criteria to qualify for the NEET UG 2024 examination.</P>
+<h1>NEET Eligibility Criteria 2024 Overview</h1>
+<table>
+   <tr>
+    <td>Exam name</td>
+    <td>Conducting Body</td>
+<td>Mode</td>
+<td>Duration</td>
+<td>Courses</td>
+<td>Minimum eligibility</td>
+<td>Minimum NEET Age Limit</td>
+<td>Maximum NEET Age Limit</td>
+<td>NEET eligibility criteria mark 2024</td>
+<td>Maximum Number of Attempts for NTA NEET</td>
+<td>Nationality</td>
+  </tr>
+  <tr>
+    <td>National Eligibility cum Entrance test</td>
+    <td>National Testing Agency</td>
+<td>Pen and paper-based </td>
+<td>3 hours</td>
+<td>MMBS, BDS, AYUSH, Veterinary, etc.</td>
+<td> 10+2 with Physics, Chemistry, and Biology</td>
+<td> 17 years age</td>
+<td> The NEET upper age limit has been removed, and anyone can apply for the medical entrance exam.</td>
+<td>The class 12 percentage required for the NEET 2024 exam is separate for each category and can be listed as follows: NEET eligibility criteria marks in class 12 to be considered are aggregate marks only for PCB subjects
+<ul>UR – 50%,</ul>
+<ul>OBC/SC/ST – 40%,</ul>
+<ul>PWD – 45% </ul></td>
+<td>There are no restrictions on the maximum NEET attempt limit, which is 2024.
+Nationality</td>
+<td>Indian Nationals, NRIs, OCIs, PIOs, and foreign national aspirants are eligible to apply </td>
+  </tr>
+</table>
+</div>
+<div style="background-color:#ddd";>
+<h1>Additional Links</h1>
+<p><a href="https://www.education.gov.in/en"><ul>Ministry of Education</ul></a><br>
+<a href="https://dghs.gov.in/"><ul>Directorate General of Health Services</ul><a/><br>
+<a href="https://main.mohfw.gov.in/medical-education"><ul>Ministry of Health and Family Welfare</ul><a/><br></p>
+</div>
+
+    <footer style="text-align:center";>
+        <p>&copy; Content Owned and Maintained by National Testing Agency</p>
+    </footer>
+
+</body>
+
+</html>
