@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Layout</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+      }
+      header {
+        background-color: #971212;
+        color: white;
+        text-align: center;
+        height: 50px;
+      }
+      .main {
+        background-color: black;
+        height: 100vh;
+        padding: 0 20px;
+        
+      }
+      .box1 {
+        width: 45%;
+        height: 50%;
+        margin: 10px;
+
+        background-color: blue;
+        margin: 10px;
+        display: inline-block;
+        border-radius: 5px;
+        border: 2px solid white;
+      }
+      .box2 {
+        width: 45%;
+        height: 50%;
+        margin: 10px;
+        background-color: green;
+        margin: 10px;
+        display: inline-block;
+        border: 2px solid white;
+        border-radius: 5px;
+      }
+      .textbox {
+        width: 50%;
+        height: 50px;
+        
+        background-color: #f0f0f0;
+        color: black;
+        text-align: center;
+        line-height: 50px;
+        font-size: 20px;
+        margin-top: 10px;
+        border-radius: 13px;
+      }
+      footer{
+        background-color: #971212;
+        color: white;
+        text-align: center;
+        padding:10px 10px;
+        height: 50px;
+        position: relative;
+        bottom: 0;
+        width: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <h1>Header</h1>
+      </nav>
+    </header>
+    <div class="main">
+      <div class="box1"></div>
+      <div class="box2"></div>
+
+      <div class="textbox">
+        <p>Welcome to Sigma Web Development Express</p>
+      </div>
+    </div>
+    <footer>
+
+      <p>Footer</p>
+      <p>© 2023 Sigma Web Development</p>
+        
+    </footer>
+  </body>
+</html>
